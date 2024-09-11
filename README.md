@@ -1,27 +1,65 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kushwaha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src= "https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+# 👨‍💻 Gaurav Kushwaha
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravkushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="gauravkushwaha" /> </p>
+Hi, I'm **Gaurav Kushwaha**, a passionate software developer currently pursuing **B.Tech in Civil Engineering** from **RGPV University, Bhopal**. Alongside my degree, I'm learning full-stack development at **Masai School**, where I've completed frontend development and am now focusing on backend technologies.
 
-- 🌱 I’m currently learning **BackEnd course**
+## 🎓 Education
 
-- 📫 How to reach me **kushwahagaurav062@gmail.com**
+- **Bachelor of Technology (B.Tech) in Civil Engineering**  
+  **RGPV University, Bhopal**  
+  *Expected Graduation*: [Your Graduation Year]
 
-- 📄 This is my Resume [https://drive.google.com/file/d/1KQ9eYNWqHCbvO9jQA2LhHkWEgqbxq_aY/view?usp=sharing](https://drive.google.com/file/d/1KQ9eYNWqHCbvO9jQA2LhHkWEgqbxq_aY/view?usp=sharing)
+- **Full-Stack Web Development**  
+  **Masai School**  
+  *Frontend completed, currently studying Backend*
+
+## 🛠 Technical Skills
+
+### Frontend Technologies:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat&logo=babel&logoColor=black)
+
+### Backend Technologies:
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/-REST_APIs-FF6F00?style=flat&logo=api)
+
+### Programming Languages:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### Tools & Platforms:
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm)
+
+### Other Skills:
+![Responsive Web Design](https://img.shields.io/badge/-Responsive_Web_Design-00D1B2?style=flat&logo=responsive&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/-Problem_Solving-FFD700?style=flat&logo=lightbulb&logoColor=black)
+![Version Control (Git)](https://img.shields.io/badge/-Version_Control_(Git)-F05032?style=flat&logo=git)
+
+## 📫 Get in Touch
+
+- **GitHub**: [GitHub Link Here](https://github.com/Gauravkushwa)
+- **LinkedIn**: [LinkedIn Link Here](https://www.linkedin.com/in/gaurav-kushwaha)
+- **Email**: [kushwahagaurav062@gmail.com]
+- **Twitter**: [ LinkedIn Link Here](https://x.com/gauravkush50263)
+- **Twitter**: [ LinkedIn Link Here](https://www.facebook.com/gaurav%20kushwaha)
+- 📄 This is my Resume  [Resume](https://drive.google.com/file/d/1KQ9eYNWqHCbvO9jQA2LhHkWEgqbxq_aY/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny😘**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@gauravkush50263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gauravkush50263" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gaurav kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav kushwaha" height="30" width="40" /></a>
-<a href="https://fb.com/gaurav kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gaurav kushwaha" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
+
+
+<
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravkushwaha&show_icons=true&locale=en&layout=compact" alt="gauravkushwaha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravkushwaha&show_icons=true&locale=en" alt="gauravkushwaha" /></p>
