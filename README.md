@@ -79,8 +79,12 @@ Alongside my degree, I'm learning full-stack development at **Masai School**, wh
 
 ## 📊 GitHub Stats  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravkushwaha&show_icons=true&locale=en&layout=compact" alt="gauravkushwaha" /></p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gauravkushwa&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gauravkushwa&theme=tokyonight" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravkushwaha&show_icons=true&locale=en" alt="gauravkushwaha" /></p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravkushwa&layout=compact&theme=tokyonight" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravkushwaha&" alt="gauravkushwaha" /></p>
