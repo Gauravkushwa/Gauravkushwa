@@ -7,11 +7,11 @@ Hi, I'm **Gaurav Kushwaha**, a passionate software developer currently pursuing 
 
 - **Bachelor of Technology (B.Tech) in Civil Engineering**  
   **RGPV University, Bhopal**  
-  *Expected Graduation*: [Your Graduation Year]
+  *Expected Graduation*: 2025
 
 - **Full-Stack Web Development**  
   **Masai School**  
-  *Frontend completed, currently studying Backend*
+  *Frontend and Backend completed*
 
 ## 🛠 Technical Skills
 
